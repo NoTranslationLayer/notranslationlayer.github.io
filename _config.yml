@@ -1,3 +1,6 @@
 title: No Translation Layer
 url: "https://notranslationlayer.github.io"
+
 theme: minima
+minima:
+  skin: dark
