@@ -1,3 +1,0 @@
-# No Translation Layer LLC
-
-
