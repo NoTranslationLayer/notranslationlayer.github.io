@@ -1,7 +1,6 @@
 title: No Translation Layer
 url: "https://notranslationlayer.github.io"
 
+remote_theme: jekyll/minima
 minima:
   skin: dark
-
-theme: minima
