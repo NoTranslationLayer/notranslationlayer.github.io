@@ -1,6 +1,13 @@
 title: No Translation Layer LLC
 url: "https://notranslationlayer.github.io"
 
-remote_theme: jekyll/minima
+destination: ./docs
+
+theme: minima
 minima:
   skin: dark
+
+
+header_pages:
+  - about.markdown
+  - contact.markdown
