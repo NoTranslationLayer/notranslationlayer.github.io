@@ -3,7 +3,7 @@ url: "https://notranslationlayer.github.io"
 
 destination: ./docs
 
-theme: minima
+remote_theme: jekyll/minima
 minima:
   skin: dark
 
