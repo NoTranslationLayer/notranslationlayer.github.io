@@ -5,7 +5,7 @@ layout: home
 > *"The unexamined life is not worth living"*
 > — Socrates
 
-We develop tools that enable you to track the things that matter to you, and discover novel and actionable insights that you can apply in your life.
+We develop tools that enable you to track the things that matter to you and discover actionable insights.
 
 # [`biomarkerdash`](https://github.com/NoTranslationLayer/biomarkerdash): Biomarker Dashboard
 
