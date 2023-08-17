@@ -4,4 +4,4 @@ docs
 .jekyll-metadata
 vendor
 Gemfile*
-DS_Store
+.DS_Store
