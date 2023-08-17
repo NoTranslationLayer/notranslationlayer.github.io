@@ -5,7 +5,7 @@ layout: base
 
 # Social Media
 
-Find us on [GitHub](https://github.com/NoTranslationLayer), [Reddit](https://reddit.com/NoTranslationLayer) and [Twitter](https://twitter.com/NoTranslationL).
+Find us on [GitHub](https://github.com/NoTranslationLayer), [Reddit](https://reddit.com/u/NoTranslationLayer) and [Twitter](https://twitter.com/NoTranslationL).
 
 # Other Inquiries
 
