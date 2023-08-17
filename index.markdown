@@ -12,4 +12,4 @@ We develop tools that enable you to track the things that matter to you and disc
 <img src="./assets/biomarkerdash.png" alt="Example Biomarker Dashboard page" style="width: 350px; float: left; margin-right: 20px">
 
 
-The Biomarker Dashboard provides an interactive, easy-to-use interface to visualize and understand trends in your bloodwork biomarkers. Originally designed to import and visualize data from WellnessFX, this dashboard is a vital tool for those looking to transition their data elsewhere due to WellnessFX's shutdown. The project is open source and available on [GitHub](https://github.com/NoTranslationLayer/biomarkerdash).
+The Biomarker Dashboard provides an interactive and easy-to-use interface to visualize and understand trends in your bloodwork biomarkers. Originally designed to import and visualize data from WellnessFX, this dashboard is a vital tool for those looking to transition their data elsewhere after the WellnessFX shutdown. The project is open source and available on [GitHub](https://github.com/NoTranslationLayer/biomarkerdash).
