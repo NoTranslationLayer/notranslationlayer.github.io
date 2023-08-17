@@ -7,7 +7,15 @@ remote_theme: jekyll/minima
 minima:
   skin: dark
 
-
 header_pages:
   - about.markdown
   - contact.markdown
+
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/NoTranslationLayer" }
+    - { platform: twitter, user_url: "https://twitter.com/NoTranslationL" }
+    - { platform: reddit, user_url: "https://reddit.com/NoTranslationLayer" }
+
+plugins:
+  - jekyll-remote-theme
