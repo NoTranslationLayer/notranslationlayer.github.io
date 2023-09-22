@@ -3,7 +3,7 @@ layout: post
 title:  "Track Anything with Reflect"
 ---
 
-We are excited to announce that Reflect, an app designed to track anything, is now open for beta testing on iOS through Apple’s TestFlight. 
+We are excited to announce that Reflect, an app designed to track anything, is now open for beta testing on iOS through Apple’s TestFlight. You can access Reflect by clicking [this link](https://testflight.apple.com/join/1Tv8xOd9).
 
 We created Reflect because we were looking for a simple way to record, monitor, and understand different aspects of our lives. We are looking forward to further developing it into a powerful tool to discover relationships between recorded variables.
 
