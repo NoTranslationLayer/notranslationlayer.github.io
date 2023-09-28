@@ -18,8 +18,8 @@ Reflect allows you to create custom, user-defined metrics, allowing you to track
 To record your data, you can create a reflection template with a collection of metrics. For inspiration, we provide a number of sample templates as a starting point, which can be edited or deleted. For example, you might create a template that includes your mood, the amount of exercise you did, and what you ate. Moreover, these templates can be shared with others, making it easier to collaborate in the journey of self-discovery.
 
 <center>
-<img src="/assets/announcing_reflect/jj_template1.png" style="width: 40%; height: 40%; display: inline; padding: 10px; padding-bottom: 30px">
-<img src="/assets/announcing_reflect/jj_template2.jpeg" style="width: 40%; height: 40%; display: inline; padding: 10px; padding-bottom: 30px">
+<img src="/assets/announcing_reflect/add_template.png" style="width: 45%; height: 45%; display: inline; padding: 10px; padding-bottom: 30px">
+<img src="/assets/announcing_reflect/add_metric.png" style="width: 45%; height: 45%; display: inline; padding: 10px; padding-bottom: 30px">
 </center>
 
 
@@ -35,11 +35,20 @@ Reflect supports various types of metrics including:
 With templates in place, you can begin to record your data from the reflection page with just one tap. 
 
 <center>
-<img src="/assets/announcing_reflect/jj_reflection.png" alt="Recording Data" style="width: 30%; height: 30%; display: inline; padding: 10px">
-<img src="/assets/announcing_reflect/meditation_reflection.png" alt="Meditation Reflection" style="width: 30%; height: 30%; display: inline; padding: 10px">
 <img src="/assets/announcing_reflect/mood_reflection.png" alt="Mood Reflection" style="width: 30%; height: 20%; display: inline; padding: 10px">
+<img src="/assets/announcing_reflect/meditation_reflection.png" alt="Meditation Reflection" style="width: 30%; height: 30%; display: inline; padding: 10px">
+<img src="/assets/announcing_reflect/jj_reflection.png" alt="Recording Data" style="width: 30%; height: 30%; display: inline; padding: 10px">
 </center>
-  
+
+## Viewing Your History
+
+Your reflection history can be viewed in calendar form and list form, and allows you to edit or delete past reflecitons.
+
+<center>
+<img src="/assets/announcing_reflect/history_calendar.png" style="width: 45%; height: 45%; display: inline; padding: 10px; padding-bottom: 30px">
+<img src="/assets/announcing_reflect/history_list.png" style="width: 45%; height: 45%; display: inline; padding: 10px; padding-bottom: 30px">
+</center>
+
 
 ## Visualize Metrics Over Time
 With Reflect, you can plot and overlay numeric metrics, which helps you understand the relationships between different metrics. For example, this can help answer questions like:
@@ -50,7 +59,7 @@ With Reflect, you can plot and overlay numeric metrics, which helps you understa
 - "Do I get hungrier if I lift heavy?"
 - "Does being keto reduce my need for sleep?"
 
-<img src="/assets/announcing_reflect/trends.png" alt="Visualize Metrics" style="width: 50%; height: 50%; margin: 0 auto; display: block; padding: 10px">
+<img src="/assets/announcing_reflect/trends_horizontal.png" alt="Visualize Metrics" style="width: 100%; height: 100%; margin: 0 auto; display: block; padding: 10px">
 
 ## Privacy Focused
 All the data that is generated stays on your device. You are the owner of your data, and you decide what to do with it.
