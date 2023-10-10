@@ -29,6 +29,8 @@ Reflect supports various types of metrics including:
 - **Ratings:** for providing ratings on a scale with custom bounds, for example, stress level from 1 to 10.
 - **Number With Units:** for tracking quantities with specific units like milligrams of a supplement.
 - **Choices:** for mutually exclusive options, like if you worked from home, in the office, or from a friend's place.
+- **Timers:** for measuring duration of an activity, like meditation or exercise.
+
 
 ## Recording Your Data
 
