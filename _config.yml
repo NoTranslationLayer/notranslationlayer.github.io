@@ -13,6 +13,7 @@ minima:
 
 header_pages:
   - about.markdown
+  - reflect.markdown
   - contact.markdown
   - blog.markdown
 
