@@ -1,6 +1,7 @@
 ---
 title: Contact
 layout: base
+permalink: /contact
 ---
 
 # Social Media
