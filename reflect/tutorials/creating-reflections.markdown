@@ -34,7 +34,7 @@ This setting affects data analysis because it tells the analysis to expect exact
 
 <img src="/assets/creating-reflections-screenshots/IMG_0995.PNG" alt="Daily Reflection" style="width: 50%; height: 50%; margin: 0 auto; display: block; padding: 10px">
 
-### Allow ad-hoc metrics
+### Allow Ad-Hoc Metrics
 
 Ad-hoc metrics are ones you can record on-the-fly without having them as part of your **Reflection Template**. They're useful for unplanned recordings that aren't very common.
 
