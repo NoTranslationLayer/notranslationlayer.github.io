@@ -13,12 +13,6 @@ You can go to our [contact page](/contact) for specific inquiries.
 - [Creating Reflection Templates](/reflect/tutorials/creating-reflections)
 - [Importing from CSV](/reflect/tutorials/csv-import)
 
-### Editing a Reflection
-
-### Interpreting Correlations
-
-### Importing from CSV
-
 ## FAQ
 
 #### How do I edit a **Reflection**?
@@ -39,6 +33,8 @@ If you want to delete the entire history for a given Reflection, not just one oc
 #### How do I edit a **Reflection Template**?
 
 To edit a Reflection Template, swipe right on the Reflection name on the **Reflect** page and press ![pencil](/assets/icons/pencil.png). From there, you can add or remove metrics, change the Reflection Template settings or notifications, then press ![checkmark.circle](/assets/icons/checkmark.circle.png) to save your changes.
+
+See the [Creating Reflection Templates](/reflect/tutorials/creating-reflections) tutorial for further details on editing Reflection Templates.
 
 #### How do I view the history for a specific **Reflection** type?
 
@@ -64,3 +60,7 @@ Go to the **Trends** page. Press on one of the existings plots in the list of sa
 Once in the desired plot page, press ![plus.circle.fill](/assets/icons/plus.circle.fill.png) in the top right corner to select the list of metrics you would like to display on the plot. Pressing ![arrow.counterclockwise](/assets/icons/arrow.counterclockwise.png) will clear all metrics from the plot if you want to remove all displayed metrics instead of individually de-selecting them.
 
 To control various settings for data display and trend lines, press ![gearshape](/assets/icons/gearshape.png) to edit the plot options.
+
+#### How do I import historical data from elsewhere?
+
+See the [Importing from CSV](/reflect/tutorials/csv-import) tutorial.

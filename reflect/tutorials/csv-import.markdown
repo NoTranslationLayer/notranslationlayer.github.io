@@ -14,7 +14,7 @@ As an example, here is what your data may look like:
 
 <img src="image-1.png" alt="events-csv" style="width: 50%; height: 50%; margin: 0 auto; display: block; padding: 10px">
 
-In Reflect you can import this data by first pressing ![gear](gear.png) at the top left of the **Reflect** tab.
+In Reflect you can import this data by first pressing ![gear](/assets/icons/gear.png) at the top left of the **Reflect** tab.
 
 In the **Settings** page, scroll down until you see **Import Reflections**. Click and choose your CSV file for import. Once the CSV file is processed, the CSV importer tool will appear.
 
