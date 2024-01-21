@@ -8,7 +8,7 @@ A **Reflection Form** is a type of form that allows you to conveniently and regu
 
 ## Start a New Reflection Template
 
-1. In the top right of the **Reflect** page, press the ![doc.badge.plus](doc.badge.plus-1.png) button to open up the template creation page.
+1. In the top right of the **Reflect** page, press the ![doc.badge.plus](/assets/icons/doc.badge.plus-1.png) button to open up the template creation page.
 
 <img src="/assets/creating-reflections-screenshots/IMG_0992.PNG" alt="Template Creation Page" style="width: 50%; height: 50%; margin: 0 auto; display: block; padding: 10px">
 
@@ -94,4 +94,4 @@ Assigning a group to your metric does nothing more than allow your Reflection to
 
 ## Finishing Up
 
-You may save a metric to a Reflection by pressing ![checkmark.circle](checkmark.circle.png) at the top right of your screen. If the checkmark is disabled, it means you need to finalize some aspect of the metric, such as its name. Once saved, you may continue to add as many metrics as you'd like to a Reflection. When finished adding your metrics, you may save the Reflection by pressing ![checkmark.circle](checkmark.circle.png) at the top right of your screen again.
+You may save a metric to a Reflection by pressing ![checkmark.circle](/assets/icons/checkmark.circle.png) at the top right of your screen. If the checkmark is disabled, it means you need to finalize some aspect of the metric, such as its name. Once saved, you may continue to add as many metrics as you'd like to a Reflection. When finished adding your metrics, you may save the Reflection by pressing ![checkmark.circle](/assets/icons/checkmark.circle.png) at the top right of your screen again.

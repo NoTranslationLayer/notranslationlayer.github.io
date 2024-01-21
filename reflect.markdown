@@ -3,7 +3,7 @@ title: Reflect
 layout: page
 ---
 
-## [Tutorials and Support](/reflect/support.markdown)
+## [Tutorials and Support](/reflect/support)
 
 ## News
 
