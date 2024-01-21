@@ -6,7 +6,7 @@ permalink: /reflect/support
 
 ## Contacting Us
 
-You can go to our [contact page](/contact) for specific inquiries. 
+Have questions or issues that aren't covered below? See our [contact page](/contact) to get in touch with us.
 
 ## Tutorials
 
