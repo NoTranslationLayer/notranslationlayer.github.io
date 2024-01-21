@@ -10,8 +10,8 @@ You can go to our [contact page](/contact) for specific inquiries.
 
 ## Tutorials
 
-
-### [Creating Reflection Templates](/reflect/tutorials/creating-reflections)
+- [Creating Reflection Templates](/reflect/tutorials/creating-reflections)
+- [Importing from CSV](/reflect/tutorials/csv-import)
 
 ### Editing a Reflection
 
