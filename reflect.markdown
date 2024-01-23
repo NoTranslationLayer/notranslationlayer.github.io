@@ -1,6 +1,7 @@
 ---
 title: Reflect
 layout: page
+permalink: /reflect
 ---
 
 ## [Tutorials and Support](/reflect/support)
