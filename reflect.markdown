@@ -12,3 +12,7 @@ layout: page
 ## Privacy Policy
 
 [Privacy Policy](/reflect/privacy)
+
+## Terms of Service
+
+[Terms of Service](/reflect/terms)
