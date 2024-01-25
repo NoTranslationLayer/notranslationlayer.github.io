@@ -8,7 +8,7 @@ permalink: /reflect
 
 ## News
 
-[Introducing Reflect](/2023/09/01/track-anything.html)
+[Introducing Reflect](2023/10/12/track-anything.html)
 
 ## Privacy Policy
 
