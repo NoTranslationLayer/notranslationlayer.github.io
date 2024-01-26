@@ -8,7 +8,7 @@ layout: home
 We develop tools that enable you to track the things that matter to you and discover actionable insights.
 
 
-# [`Reflect`](2023/10/12/track-anything.html): Track Anything
+# [`Reflect`](/reflect): Track Anything
 
 # [`biomarkerdash`](https://github.com/NoTranslationLayer/biomarkerdash): Biomarker Dashboard
 
