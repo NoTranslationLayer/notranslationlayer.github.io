@@ -10,7 +10,9 @@ permalink: /reflect
 
 [Reflect](https://apps.apple.com/app/apple-store/id6463800032?pt=126584930&ct=Debut&mt=8) allows you to track anything and gain insights from your data.
 
-Whether it's your mood, symptoms, activities, events, performance, supplements, habits, or weight, Reflect offers you a high level of control to record anything you wish. Here are some of its features:
+Whether it's your mood, symptoms, activities, events, performance, supplements, habits, or weight, Reflect offers you a high level of control to record anything you wish. 
+
+[<img src="/assets/reflect/download-on-app-store.svg" alt="Download Reflect on App Store" style="width: 160px; height: 54px; margin: 0 auto; display: block; padding: 10px">](https://apps.apple.com/app/apple-store/id6463800032?pt=126584930&ct=Debut&mt=8)
 
 ### Free Unlimited Custom Tracking
 
