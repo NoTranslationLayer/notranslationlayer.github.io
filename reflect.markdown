@@ -19,8 +19,8 @@ Whether it's your mood, symptoms, activities, events, performance, supplements, 
 Unlike other apps, recording your data with Reflect is completely free; you can track as much as you'd like and you are only limited by your imagination.
 
 <center>
-<img src="/assets/reflect/homepage.PNG" style="width: 45%; height: 45%; display: inline; padding: 10px; padding-bottom: 30px">
-<img src="/assets/reflect/form.PNG" style="width: 45%; height: 45%; display: inline; padding: 10px; padding-bottom: 30px">
+<img src="/assets/reflect/homepage.png" style="width: 45%; height: 45%; display: inline; padding: 10px; padding-bottom: 30px">
+<img src="/assets/reflect/form.png" style="width: 45%; height: 45%; display: inline; padding: 10px; padding-bottom: 30px">
 </center>
 
 
@@ -29,8 +29,8 @@ Unlike other apps, recording your data with Reflect is completely free; you can 
 See trends in your data and identify relationships between metrics. 
 
 <center>
-<img src="/assets/reflect/plot2.PNG" style="width: 45%; height: 45%; display: inline; padding: 10px; padding-bottom: 30px">
-<img src="/assets/reflect/plot.PNG" style="width: 45%; height: 45%; display: inline; padding: 10px; padding-bottom: 30px">
+<img src="/assets/reflect/plot2.png" style="width: 45%; height: 45%; display: inline; padding: 10px; padding-bottom: 30px">
+<img src="/assets/reflect/plot.png" style="width: 45%; height: 45%; display: inline; padding: 10px; padding-bottom: 30px">
 </center>
 
 ### Insights
@@ -63,8 +63,8 @@ Reflect supports various types of metrics including:
 - **Timers:** for measuring duration of an activity, like meditation or exercise.
 
 <center>
-<img src="/assets/reflect/customize-form.PNG" style="width: 45%; height: 45%; display: inline; padding: 10px; padding-bottom: 30px">
-<img src="/assets/reflect/customize-metric.PNG" style="width: 45%; height: 45%; display: inline; padding: 10px; padding-bottom: 30px">
+<img src="/assets/reflect/customize-form.png" style="width: 45%; height: 45%; display: inline; padding: 10px; padding-bottom: 30px">
+<img src="/assets/reflect/customize-metric.png" style="width: 45%; height: 45%; display: inline; padding: 10px; padding-bottom: 30px">
 </center>
 
 ### Free CSV Import
