@@ -18,7 +18,7 @@ In Reflect you can import this data by first pressing ![gear](/assets/icons/gear
 
 In the **Settings** page, scroll down until you see **Import Reflections**. Click and choose your CSV file for import. Once the CSV file is processed, the CSV importer tool will appear.
 
-<img src="/assets/reflect/importer-tool.PNG" alt="import-tool" style="width: 50%; height: 50%; margin: 0 auto; display: block; padding: 10px">
+<img src="/assets/reflect/importer-tool.png" alt="import-tool" style="width: 50%; height: 50%; margin: 0 auto; display: block; padding: 10px">
 
 As you can see, the import tool has inferred the date column of the CSV. All imported data needs a date column to differentiate when your metrics were recorded. If the CSV tool cannot infer the date column, your data can't be imported. Please [reach out to us](mailto:contact@ntl.ai) if this happens! We want to support as many date and time formats as possible. If there are multiple date columns, for example one for when you start an activity and one for when it ends, you will be able to select which is used for the Reflection recorded date.
 
