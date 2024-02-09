@@ -71,6 +71,6 @@ Reflect supports various types of metrics including:
 
 Migrate to Reflect by importing your CSV data with ease with Reflect's template builder, enabling you to reap the benefits of Reflect's visualizations and insights immediately. [Here](/reflect/tutorials/csv-import) is a tutorial for how to use it.
 
-### Free Data Export
+### Free CSV Export
 
 There is no lock-in to Reflect. Users are free to leave at any time; we want the qualities of the app to speak for themselves and serve the parts of you that want quality and control.
