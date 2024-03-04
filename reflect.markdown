@@ -74,3 +74,7 @@ Migrate to Reflect by importing your CSV data with ease with Reflect's template 
 ### Free CSV Export
 
 There is no lock-in to Reflect. Users are free to leave at any time; we want the qualities of the app to speak for themselves and serve the parts of you that want quality and control.
+
+### Free Integrations with other apps
+
+Other apps require subscriptions to get your data into their app. In **Reflect**, there is always a free way to get your data into **Reflect** and integrations with other apps are no exception. Follow our [tutorial](/reflect/tutorials/add-integration) to get started.

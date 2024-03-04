@@ -76,3 +76,7 @@ See the [Importing from CSV](/reflect/tutorials/csv-import) tutorial.
 #### Why doesn't Reflect offer an API?
 
 Offering an API would require us to have servers that house and serve your data. Our [policy](/reflect/privacy) is to not collect your data for any purpose.
+
+#### How do I integrate with another app?
+
+See this [tutorial](/reflect/tutorials/add-integration). Currently, we only support integration with **Oura**. We intend to support more in the future.
