@@ -4,7 +4,7 @@ title: Adding a New Integration
 permalink: /reflect/tutorials/add-integration
 ---
 
-Integrations are sources of data whose metrics are automatically fetched and incorporated into **Reflect**. You may correlate this data with anything you track. For example, you can correlate your **Oura** "Activity Score" to an aspect of your mood, like your "Motivation". Here are the steps to add your integration.
+Integrations are sources of data whose metrics are automatically fetched and incorporated into **Reflect**. You may correlate this data with anything you track. For example, you can correlate your **Activity Score** from **Oura** to an aspect of your mood, like your **Motivation**. Here are the steps to add your integration.
 
 
 ## Manage Integrations
@@ -29,7 +29,7 @@ Sign into your account. The app you are trying to integrate with may ask you for
 
 ## Import Historical Data
 
-After signing into your account and choosing permissions, the app will ask you for an initial date. If you've been using a wearable since 2023 but only want to sync your data from 2024, you'll be able to specify it here. Don't worry, you can always go back and sync earlier historical data.
+After signing into your account and choosing permissions, you can select the earliest date to sync data from. If you've been using a wearable since 2023 but only want to sync your data from 2024, you'll be able to specify it here. Don't worry, you can always go back and sync earlier historical data.
 
 <img src="/assets/reflect/integrations/integration-start-date.png" style="width: 45%; height: 45%; display: inline; padding: 10px; padding-bottom: 30px">
 <img src="/assets/reflect/integrations/integration-page-active.png" style="width: 45%; height: 45%; display: inline; padding: 10px; padding-bottom: 30px">
