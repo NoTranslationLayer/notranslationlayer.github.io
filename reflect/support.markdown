@@ -12,3 +12,4 @@ Have questions or issues that aren't covered in our [Frequently Asked Questions]
 
 - [Creating Reflection Templates](/reflect/tutorials/creating-reflections)
 - [Importing from CSV](/reflect/tutorials/csv-import)
+- [Adding a New Integration](/reflect/tutorials/add-integration)
