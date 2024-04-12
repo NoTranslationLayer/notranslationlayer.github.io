@@ -42,6 +42,20 @@ Learn which metrics correspond most highly with anything you track. Answer quest
 <img src="/assets/correlations/happy-correlations-iphone.png" style="width: 45%; height: 45%; display: inline; padding: 10px; padding-bottom: 30px">
 </center>
 
+
+### Experiments
+
+Test any hypothesis imaginable about a change you're making, such as “I think this new supplement will improve my mood” or “I think running my air purifier at night will result in better sleep.”
+
+With experiments you can choose between multiple schedule types so that you can apply your intervention in the best way possible.
+
+Once your experiment concludes, you'll receive a detailed report of your results that includes statistics and plots you may share with others.
+
+<center>
+<img src="/assets/reflect/experiment-schedule.png" style="width: 45%; height: 45%; display: inline; padding: 10px; padding-bottom: 30px">
+<img src="/assets/reflect/experiment-report.png" style="width: 45%; height: 45%; display: inline; padding: 10px; padding-bottom: 30px">
+</center>
+
 ### Get Started Immediately
 
 There is no "signing up" step; just specify what your data looks like and begin recording.
