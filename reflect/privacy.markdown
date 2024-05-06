@@ -17,7 +17,7 @@ By using Reflect, you consent to this privacy policy.
 #### May 6, 2024
 Added section for anonymous and optional feedback.
 
-#### January 9, 2023
+#### January 9, 2024
 Initial Privacy Policy
 
 ## Commitment to Privacy
