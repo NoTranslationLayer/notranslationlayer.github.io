@@ -10,6 +10,9 @@ minima:
     - { platform: github,  user_url: "https://github.com/NoTranslationLayer" }
     - { platform: twitter, user_url: "https://twitter.com/NoTranslationL" }
     - { platform: reddit, user_url: "https://reddit.com/u/NoTranslationLayer" }
+    - { platform: instagram, user_url: "https://instagram.com/reflect.track.anything" }
+    - { platform: discord, user_url: "https://discord.gg/EeYJSt3g" }
+
 
 header_pages:
   - about.markdown
