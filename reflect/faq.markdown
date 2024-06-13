@@ -56,7 +56,7 @@ You can also retroactively change the recording date/time by following the above
 
 To add a global notification reminder, press ![gear](/assets/icons/gear.png) in the top right on the **Reflect** tab and enable the **Daily Notification** setting. You can select the notification time by pressing on the displayed notification time.
 
-To add a Reflection specific notification, press ![list.bullet](/assets/icons/list.bullet.png) **Add Notification** when editing the Reflection Forms.
+To add a Reflection specific notification, press ![plus.circle.fill](/assets/icons/plus.circle.fill.png) **Add Notification** when editing the Reflection Forms.
 
 <a id="plot-values"></a>
 #### How do I plot the values of a metric over time?
