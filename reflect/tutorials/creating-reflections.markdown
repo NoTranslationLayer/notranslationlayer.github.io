@@ -8,11 +8,23 @@ A **Reflection Form** is a type of form that allows you to conveniently and regu
 
 ## Start a New Reflection Form
 
-1. In the top right of the **Reflect** page, press the ![doc.badge.plus](/assets/icons/doc.badge.plus-1.png) button to open up the form creation page.
+1. If this is your first time using Reflect, you may create a new Reflection form by tapping ![doc.badge.plus](/assets/icons/doc.badge.plus-1.png) **Add Reflection Form**  near the top of the page. If you already have a Reflection form defined, you may add another one by pressing the ![doc.badge.plus](/assets/icons/doc.badge.plus-1.png) button at the top right of your screen to open up the form creation page. There, you'll have the choice between using one of our sample templates and creating your own form.
 
-<img src="/assets/creating-reflections-screenshots/IMG_0992.PNG" alt="Form Creation Page" style="width: 50%; height: 50%; margin: 0 auto; display: block; padding: 10px">
+<center>
+<img src="/assets/creating-reflections-screenshots/first_view.png" style="width: 45%; height: 45%; display: inline; padding: 10px; padding-bottom: 30px">
+<img src="/assets/creating-reflections-screenshots/choose_form.png" style="width: 45%; height: 45%; display: inline; padding: 10px; padding-bottom: 30px">
+</center>
 
-## Give your Reflection Form a Name
+## Premade Reflection Forms
+
+<center>
+<img src="/assets/creating-reflections-screenshots/choose_mood.png" style="width: 45%; height: 45%; display: inline; padding: 10px; padding-bottom: 30px">
+<img src="/assets/creating-reflections-screenshots/swipe_edit.png" style="width: 45%; height: 45%; display: inline; padding: 10px; padding-bottom: 30px">
+</center>
+
+If you choose a premade form such as **Mood**, you'll select which **Mood** metrics you'd like to include in your form. Once you select these metrics, you can save the form template by tapping the ![checkmark.circle](/assets/icons/checkmark.circle.png) icon. If you want to go back later and add more metrics to your form, you may edit it by swiping right on the **Mood** Reflection name on the **Reflect** tab and pressing ![pencil](/assets/icons/pencil.png). From there, you can add or remove metrics, change the Reflection Form settings or add notifications.
+
+## Give your Custom Reflection Form a Name
 
 **Reflection Form** names must be unique.
 

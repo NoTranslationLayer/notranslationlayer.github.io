@@ -15,7 +15,7 @@ Reflect allows you to create custom, user-defined metrics, allowing you to track
 
 <img src="/assets/announcing_reflect/reflection_page.png" alt="Reflection Page" style="width: 50%; height: 50%; margin: 0 auto; display: block; padding: 10px">
 
-## Create and Share Form
+## Create and Share Forms
 To record your data, you can create a reflection form with a collection of metrics. For inspiration, we provide a number of sample forms as a starting point, which can be edited or deleted. For example, you might create a form that includes your mood, the amount of exercise you did, and what you ate. Moreover, these forms can be shared with others, making it easier to collaborate in the journey of self-discovery.
 
 <center>
@@ -35,7 +35,7 @@ Reflect supports various types of metrics including:
 
 ## Recording Your Data
 
-With your forms in place, you can begin to record your data from the reflection page with just one tap. 
+With your forms created, you can begin to record your data from the reflection page with just one tap. 
 
 <center>
 <img src="/assets/announcing_reflect/mood_reflection.png" alt="Mood Reflection" style="width: 30%; height: 20%; display: inline; padding: 10px">
