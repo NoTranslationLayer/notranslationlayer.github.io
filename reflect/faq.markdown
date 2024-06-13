@@ -80,4 +80,4 @@ Offering an API would require us to have servers that house and serve your data.
 <a id="integration"></a>
 #### How do I link to apps for my wearable devices and import my data?
 
-See this [tutorial](/reflect/tutorials/add-integration). Currently, we only support integration with **Oura**. We plan to support more in the future.
+See this [tutorial](/reflect/tutorials/add-integration). Currently, we support integration with **Oura**, **Whoop**, and **Apple Health**. We plan to support more in the future.
