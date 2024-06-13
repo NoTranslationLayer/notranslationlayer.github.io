@@ -9,7 +9,7 @@ Integrations are sources of data whose metrics are automatically fetched and inc
 
 ## Manage Integrations
 
-Click the ![](/assets/icons/link.png) icon at the top right of the **Reflect** page to manage your integrations. If you haven't created any reflection templates, it will appear on the **Reflect** page itself.
+Click the ![](/assets/icons/link.png) icon at the top right of the **Reflect** page to manage your integrations. If you haven't created any reflection forms, it will appear on the **Reflect** page itself.
 
 <img src="/assets/reflect/integrations/main-page1.png" style="width: 45%; height: 45%; display: inline; padding: 10px; padding-bottom: 30px">
 <img src="/assets/reflect/integrations/main-page2.png" style="width: 45%; height: 45%; display: inline; padding: 10px; padding-bottom: 30px">

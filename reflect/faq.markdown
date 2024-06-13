@@ -7,7 +7,7 @@ permalink: /reflect/faq
 ## Table of Contents
 - [How do I edit a Reflection?](#edit-reflection)
 - [How do I delete a Reflection?](#delete-reflection)
-- [How do I edit a Reflection Template?](#edit-template)
+- [How do I edit a Reflection Form?](#edit-form)
 - [How do I view the history for a specific Reflection type?](#view-history)
 - [How do I specify a custom date/time of recording when I submit a Reflection?](#custom-date-time)
 - [How do I add a notification?](#add-notification)
@@ -31,12 +31,12 @@ Go to the **History** tab and open the history in list mode (the ![calendar](/as
 
 If you want to delete the entire history for a given Reflection, not just one occurrence, click on the orange ![trash.slash](/assets/icons/trash.slash.png) icon.
 
-<a id="edit-template"></a>
-#### How do I edit a **Reflection Template**?
+<a id="edit-form"></a>
+#### How do I edit a **Reflection Form**?
 
-To edit a Reflection Template, swipe right on the Reflection name on the **Reflect** tab and press ![pencil](/assets/icons/pencil.png). From there, you can add or remove metrics, change the Reflection Template settings or notifications, then press ![checkmark.circle](/assets/icons/checkmark.circle.png) to save your changes.
+To edit a Reflection Form, swipe right on the Reflection name on the **Reflect** tab and press ![pencil](/assets/icons/pencil.png). From there, you can add or remove metrics, change the Reflection Form settings or notifications, then press ![checkmark.circle](/assets/icons/checkmark.circle.png) to save your changes.
 
-See the [Creating Reflection Templates](/reflect/tutorials/creating-reflections) tutorial for further details on editing Reflection Templates.
+See the [Creating Reflection Forms](/reflect/tutorials/creating-reflections) tutorial for further details on editing Reflection Forms.
 
 <a id="view-history"></a>
 #### How do I view the history for a specific **Reflection** type?
@@ -56,7 +56,7 @@ You can also retroactively change the recording date/time by following the above
 
 To add a global notification reminder, press ![gear](/assets/icons/gear.png) in the top right on the **Reflect** tab and enable the **Daily Notification** setting. You can select the notification time by pressing on the displayed notification time.
 
-To add a Reflection specific notification, press ![list.bullet](/assets/icons/list.bullet.png) **Add Notification** when editing the Reflection Template.
+To add a Reflection specific notification, press ![list.bullet](/assets/icons/list.bullet.png) **Add Notification** when editing the Reflection Forms.
 
 <a id="plot-values"></a>
 #### How do I plot the values of a metric over time?
@@ -80,4 +80,4 @@ Offering an API would require us to have servers that house and serve your data.
 <a id="integration"></a>
 #### How do I link to apps for my wearable devices and import my data?
 
-See this [tutorial](/reflect/tutorials/add-integration). Currently, we only support integration with **Oura**. We plan to support more in the future.
+See this [tutorial](/reflect/tutorials/add-integration). Currently, we support integration with **Oura**, **Whoop**, and **Apple Health**. We plan to support more in the future.

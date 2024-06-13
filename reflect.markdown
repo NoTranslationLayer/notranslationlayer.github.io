@@ -83,7 +83,7 @@ Reflect supports various types of metrics including:
 
 ### Free CSV Import
 
-Migrate to Reflect by importing your CSV data with ease with Reflect's template builder, enabling you to reap the benefits of Reflect's visualizations and insights immediately. [Here](/reflect/tutorials/csv-import) is a tutorial for how to use it.
+Migrate to Reflect by importing your CSV data with ease with Reflect's form builder, enabling you to reap the benefits of Reflect's visualizations and insights immediately. [Here](/reflect/tutorials/csv-import) is a tutorial for how to use it.
 
 ### Free CSV Export
 
