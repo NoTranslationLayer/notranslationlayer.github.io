@@ -1,30 +1,30 @@
 ---
 layout: page
-title: Creating Reflection Templates
+title: Creating Reflection Forms
 permalink: /reflect/tutorials/creating-reflections
 ---
 
-A **Reflection Form** is a type of form that allows you to conveniently and regularly record metrics you'd like to track. You can create or modify the metrics and settings for a **Reflection Form** by editing the associated **Reflection Template**.
+A **Reflection Form** is a type of form that allows you to conveniently and regularly record metrics you'd like to track. You can create or modify the metrics and settings by editing the **Reflection Form**.
 
-## Start a New Reflection Template
+## Start a New Reflection Form
 
-1. In the top right of the **Reflect** page, press the ![doc.badge.plus](/assets/icons/doc.badge.plus-1.png) button to open up the template creation page.
+1. In the top right of the **Reflect** page, press the ![doc.badge.plus](/assets/icons/doc.badge.plus-1.png) button to open up the form creation page.
 
-<img src="/assets/creating-reflections-screenshots/IMG_0992.PNG" alt="Template Creation Page" style="width: 50%; height: 50%; margin: 0 auto; display: block; padding: 10px">
+<img src="/assets/creating-reflections-screenshots/IMG_0992.PNG" alt="Form Creation Page" style="width: 50%; height: 50%; margin: 0 auto; display: block; padding: 10px">
 
-## Give your Reflection Template a Name
+## Give your Reflection Form a Name
 
-**Reflection Template** names must be unique.
+**Reflection Form** names must be unique.
 
 <img src="/assets/creating-reflections-screenshots/IMG_1007.PNG" alt="Naming Reflection" style="width: 50%; height: 50%; margin: 0 auto; display: block; padding: 10px">
 
-## Set Reflection Template Settings
+## Set Reflection Form Settings
 
 The rest of the settings in this section are all optional.
 
 ### Default Metric Type
 
-You may record durations, ratings, yes/no responses, numbers, text, numbers with units, or selecting from a list of choices. Here you choose the type of metric to default to when adding a new metric to your **Reflection Template**.
+You may record durations, ratings, yes/no responses, numbers, text, numbers with units, or selecting from a list of choices. Here you choose the type of metric to default to when adding a new metric to your **Reflection Form**.
 
 <img src="/assets/creating-reflections-screenshots/IMG_0994.PNG" alt="Default Metric Type" style="width: 50%; height: 50%; margin: 0 auto; display: block; padding: 10px">
 
@@ -36,7 +36,7 @@ This setting affects data analysis because it tells the analysis to expect exact
 
 ### Allow Ad-Hoc Metrics
 
-Ad-hoc metrics are ones you can record on-the-fly without having them as part of your **Reflection Template**. They're useful for unplanned recordings that aren't very common.
+Ad-hoc metrics are ones you can record on-the-fly without having them as part of your **Reflection Form**. They're useful for unplanned recordings that aren't very common.
 
 <img src="/assets/creating-reflections-screenshots/IMG_0997.PNG" alt="Ad-hoc Metrics" style="width: 50%; height: 50%; margin: 0 auto; display: block; padding: 10px">
 
@@ -78,9 +78,9 @@ Some metrics are useful to track but you don't want them informing any causal in
 
 <img src="/assets/creating-reflections-screenshots/IMG_1004.PNG" alt="Exempt From Data Analysis" style="width: 50%; height: 50%; margin: 0 auto; display: block; padding: 10px">
 
-## Adding a Metric to Your Reflection Template
+## Adding a Metric to Your Reflection Form
 
-The settings for individual metrics are very similar to the **Reflection Template** settings. Specifying a different value of a setting in the metric template will override that same setting in the Reflection template. For example, if in your **Social** Reflection you exempt all metrics from data analysis but have this setting toggled off for **Extroverted**, then Extroverted will be incorporated into data analysis. Otherwise, there are metric-specific template settings such as:
+The settings for individual metrics are very similar to the **Reflection Form** settings. Specifying a different value of a setting in the metric form will override that same setting in the Reflection form. For example, if in your **Social** Reflection you exempt all metrics from data analysis but have this setting toggled off for **Extroverted**, then Extroverted will be incorporated into data analysis. Otherwise, there are metric-specific form settings such as:
 
 ### Required
 

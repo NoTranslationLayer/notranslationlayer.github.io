@@ -10,6 +10,6 @@ Have questions or issues that aren't covered in our [Frequently Asked Questions]
 
 ## Tutorials
 
-- [Creating Reflection Templates](/reflect/tutorials/creating-reflections)
+- [Creating Reflection Forms](/reflect/tutorials/creating-reflections)
 - [Importing from CSV](/reflect/tutorials/csv-import)
 - [Adding a New Integration](/reflect/tutorials/add-integration)
