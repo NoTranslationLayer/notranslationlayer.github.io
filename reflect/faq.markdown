@@ -61,7 +61,7 @@ To add a Reflection specific notification, press ![list.bullet](/assets/icons/li
 <a id="plot-values"></a>
 #### How do I plot the values of a metric over time?
 
-Go to the **Trends** tab. Press on one of the existings plots in the list of saved plots, or press ![plus.circle.fill](/assets/icons/plus.circle.fill.png) **New Plot** and choose a name for the plot if you would like to create a new plot.
+Go to the **Plots** tab. Press on one of the existings plots in the list of saved plots, or press ![plus.circle.fill](/assets/icons/plus.circle.fill.png) **New Plot** and choose a name for the plot if you would like to create a new plot.
 
 Once in the desired plot page, press ![plus.circle.fill](/assets/icons/plus.circle.fill.png) in the top right corner to select the list of metrics you would like to display on the plot. Pressing ![arrow.counterclockwise](/assets/icons/arrow.counterclockwise.png) will clear all metrics from the plot if you want to remove all displayed metrics instead of individually de-selecting them.
 
